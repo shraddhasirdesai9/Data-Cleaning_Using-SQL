@@ -15,13 +15,3 @@ Overall, data cleaning is an essential step in the data preparation process that
 The raw dataset was downloaded from https://www.kaggle.com/datasets/sgup0402/uncleaned-sample-superstore
 
 I used MySQL Workbench and imported the uncleaned csv file to a SQL Database in my local machine to carry forward with data cleaning process.
-
-
-
-
-
-
-
-
-
-I performed various data cleaning techniques of SQL on the imported table using string functions, date functions, etc and achieved good results.
